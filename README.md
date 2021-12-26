@@ -1,4 +1,4 @@
-![anime-girl-blushing-using-the-computer-anime-other-hd-art-wallpaper-preview](https://user-images.githubusercontent.com/83856879/147393152-d520a503-91af-4046-83a8-97c12f90645e.jpg)
+<a href="#"><img width="100%" height="auto" src= "https://user-images.githubusercontent.com/83856879/147393152-d520a503-91af-4046-83a8-97c12f90645e.jpg" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Indu</h1>
 <h3 align="center">I am a 21-year-old BSc undergraduate in Information Technology (Special),from Sri Lanka.</h3>
 
