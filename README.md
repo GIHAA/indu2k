@@ -53,4 +53,16 @@
 <a href="https://github.com/indu2k?tab=followers"><img src="https://img.shields.io/github/followers/indu2k?label=Followers&style=social" alt="GitHub Badge"></a>
 </br>
 </br>
+
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/indudini-thennakoon/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/i_ndu_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/IndudiniThennakoon/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href = "https://www.hackerrank.com/thennakoonindud1"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
+
+</p>
+
 last update 12/26/2021
