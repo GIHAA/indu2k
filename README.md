@@ -26,7 +26,7 @@
     <a href="https://github.com/indu2k/github-readme-stats"><img alt="Indudini Thennakoon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=indu2k&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 
-## 📑 Commitment on Github
+## ✍🏻  Commitment on Github
 
 <br/>
 
@@ -36,8 +36,11 @@
     </a>
 </p>
 
-## 🥰 Views and Followers
+## 😀 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=indu2k">
 </a>
 <a href="https://github.com/indu2k?tab=followers"><img src="https://img.shields.io/github/followers/indu2k?label=Followers&style=social" alt="GitHub Badge"></a>
+</br>
+</br>
+last update 12/26/2021
