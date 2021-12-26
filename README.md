@@ -19,16 +19,16 @@
     <a href="https://www.cprogramming.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>    
 </p>
 
 👾 **Tools**
 <p align="left">
-    <a href= "https://www.bloodshed.net" target="_blank"> <img src="https://img.icons8.com/windows/32/000000/dev.png"/>
+    <a href="#"><img width="5%" height="50" src= "https://user-images.githubusercontent.com/83856879/147408504-caadbb41-2053-44ed-aea3-885aed359c1e.png" height="175px"/></a>
     <a href= "https://code.visualstudio.com"target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
     <a href="https://www.jetbrains.com/pycharm" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-    <a href="https://www.jetbrains.com/pycharm" target="_blank">
+    <a href="#"><img width="10%" height="50" src= "https://user-images.githubusercontent.com/83856879/147408567-2cd0ccb3-d3ee-443f-980b-40483c8aefa9.jpg" height="175px"/></a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 
   </br>
     <a href="https://github.com/indu2k/github-readme-stats"><img alt="Indudini Thennakoon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=indu2k&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
