@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Indu</h1>
+<a href="#"><img width="100%" height="auto" src= "" height="175px"/></a><h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Indu</h1>
 <h3 align="center">I am a 21-year-old BSc undergraduate in Information Technology (Special),from Sri Lanka.</h3>
+
 
 ##  🙋‍♀️About Me
 
@@ -9,3 +10,16 @@
 - 👨‍💻 Currently learning **C++ & Js**
 - 📫 Pursuing a Bachelor's degree in Information Technology (special) 
 - 👯 Like to use my education knowledge and multifaceted skills to work successfully and collaboratively with others
+  
+
+## 🚀 Languages and Tools:
+
+
+<p align="left"> 
+    <a href="https://www.cprogramming.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+    <a href="https://www.cprogramming.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>    
+</p>
