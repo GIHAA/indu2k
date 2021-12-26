@@ -35,3 +35,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Induini Thennakoon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=indu2k&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+## 🥰 Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=indu2k">
+</a>
+<a href="https://github.com/indu2k?tab=followers"><img src="https://img.shields.io/github/followers/indu2k?label=Followers&style=social" alt="GitHub Badge"></a>
