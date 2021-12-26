@@ -13,7 +13,7 @@
   
 
 ## 🚀 Languages and Tools
-
+👾 **Programming Languages**
 <p align="left"> 
     <a href="https://www.cprogramming.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <a href="https://www.cprogramming.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
@@ -21,12 +21,20 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>    
-</p
-  <br/>
+</p>
+
+👾 **Tools**
+<p align="left">
+    <a href= "https://www.bloodshed.net" target="_blank"> <img src="https://img.icons8.com/windows/32/000000/dev.png"/>
+    <a href= "https://code.visualstudio.com"target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+    <a href="https://www.jetbrains.com/pycharm" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+    <a href="https://www.jetbrains.com/pycharm" target="_blank">
+
+  </br>
     <a href="https://github.com/indu2k/github-readme-stats"><img alt="Indudini Thennakoon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=indu2k&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 
-## ✍🏻  Commitment on Github
+## ✍🏽  Commitment on Github
 
 <br/>
 
@@ -35,6 +43,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Induini Thennakoon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=indu2k&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+
 
 ## 😀 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
