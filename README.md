@@ -39,7 +39,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/indu2k/github-readme-streak-stats">
+    <a href="https://github-readme-streak-stats.herokuapp.com?user=indu2k&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Induini Thennakoon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=indu2k&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
